@@ -6,6 +6,8 @@
 ***Os passos seguintes ocorrrerão após orientação do professor:***
 1. Acesse o link: (https://miro.com/welcomeonboard/CtvykYwNOZEO2JWHFcG1YOpChPrx0wmShA74vDm1ADJ0GVfxrLEWnFZY5YXEVWyQ)
 
+![alt tex](https://github.com/monicacrislo/projeto_vida/blob/master/AREA%20DE%20ENTRADA.png "TESTE")
+
 1. Se não fez o cadastro, acesse tutorial de cadastro da plataforma do [Miro](https://miro.com/)
 1. Após receber a lista com as incertezas, angústias e medos de todos os integrantes do grupo, o representante preenche o Mosaico.
   
