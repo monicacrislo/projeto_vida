@@ -12,6 +12,8 @@
 1. Após receber a lista com as incertezas, angústias e medos de todos os integrantes do grupo, o representante preenche o Mosaico.
   
   >Tente colcar seu post-it com com a cor do seu grupo para ficar mais facil identificar depois 
+![alt tex](https://github.com/monicacrislo/projeto_vida/blob/master/mosaico.png)
+
 
 
 
